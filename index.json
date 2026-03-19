@@ -6,6 +6,13 @@
       "name": "Standard Playing Cards",
       "repo": "octgn/Standard-Playing-Cards-Octgn",
       "branch": "master"
+    },
+    {
+      "guid": "d3c4b5a6-e7f8-4901-a2b3-c4d5e6f70189",
+      "name": "Basic Game Template",
+      "repo": "octgn/Basic-Game",
+      "branch": "master",
+      "manifestPath": "octgn-manifest.json"
     }
   ]
 }
